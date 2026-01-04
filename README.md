@@ -28,6 +28,10 @@ The project was built as hands-on practice for an **entry-level IT Support Engin
 4. Created MySQL database and dedicated database user
 5. Secured installation by removing setup directory and locking configuration files
 
+![Apache](screenshots/apache-installation.png)
+![PHP](screenshots/php-installation.png)
+![OS Ticket](screenshots/os-installation-success.png)
+
 ---
 
 ## Helpdesk Configuration
